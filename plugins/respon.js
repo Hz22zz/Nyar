@@ -10,4 +10,4 @@ handler.mods = false
 handler.premium = false
 handler.group = true
 handler.private = false
-module.exports = handler
+module.exports = handler2
