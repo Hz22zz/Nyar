@@ -24,4 +24,4 @@ handler.tags = ['owner']
 handler.command = /^warn(user)?$/i
 handler.mods = true
 
-module.exports = handler
+module.exports = handler2
